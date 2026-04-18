@@ -69,4 +69,5 @@ Connection string is defined in `App.config`.
 ## Author
 
 Milica Perovic
+
 Faculty of Organizational Sciences, Belgrade
