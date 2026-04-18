@@ -78,7 +78,7 @@ Faculty of Organizational Sciences, Belgrade
 ## Screenshots
 
 ### Client Application
-![Client](./client.png)
+![Client](images/client.png)
 
 ### Server Application
-![Server](./server.png)
+![Server](images/server.png)
