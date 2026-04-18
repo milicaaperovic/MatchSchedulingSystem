@@ -71,3 +71,12 @@ Connection string is defined in `App.config`.
 Milica Perovic
 
 Faculty of Organizational Sciences, Belgrade
+
+
+## Screenshots
+
+### Client Application
+![Client](client.png)
+
+### Server Application
+![Server](server.png)
